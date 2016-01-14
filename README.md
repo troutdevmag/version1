@@ -1,3 +1,12 @@
+# Version 1 app dev
+git repo https://github.com/troutdevmag/version1.git
+work on develop branch
+master branch is auto deploys to heroku 
+heroku app is named version1app http://version1app.herokuapp.com
+
+
+
+
 ## React Starter Kit — "isomorphic" web app boilerplate
 
 [![Support us on Bountysource](https://dl.dropboxusercontent.com/u/16006521/react-starter-kit/banner.png)](https://salt.bountysource.com/teams/react-starter-kit)<br>
